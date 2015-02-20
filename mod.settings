@@ -1,0 +1,6 @@
+name        = "JoinFavorites"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[]=]
+image       = "preview.jpg"
+publish_id = "1792157b"

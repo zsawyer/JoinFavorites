@@ -1,0 +1,4 @@
+modEntry = [[
+    Client: lua/JoinFavorites.lua,   
+    Priority: 1
+]]

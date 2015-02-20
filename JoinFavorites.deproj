@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>source\lua\menu\GUIMainMenu.lua</filename>
+  </file>
+  <file>
+    <filename>source\lua\menu\GUIMainMenu_PlayNow.lua</filename>
+  </file>
+  <file>
+    <filename>source\lua\JoinFavorites\menu\JF_GUIMainMenu.lua</filename>
+  </file>
+  <file>
+    <filename>source\lua\JoinFavorites\menu\JF_GUIMainMenu_PlayNow.lua</filename>
+  </file>
+  <file>
+    <filename>source\lua\JoinFavorites.lua</filename>
+  </file>
+</project>
